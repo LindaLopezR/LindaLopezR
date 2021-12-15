@@ -1,4 +1,4 @@
-### ¡Hola! Soy Linda 👋
+## ¡Hola! Soy Linda 👋
 
 Soy desarrolladora frontend semi senior de México con 5 años de experiencia.
 
@@ -23,6 +23,8 @@ Tengo conocimientos en diseño; me encanta leer, dibujar y sobre todo amo la mú
 <a href="https://open.spotify.com/user/22xenl6lxfts3cnni27xknzmq?si=bed0438447914873">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+
 
 ## Mis estadísticas de Github
 
