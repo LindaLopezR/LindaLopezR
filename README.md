@@ -14,21 +14,21 @@ Tengo conocimientos en diseño; me encanta leer, dibujar y sobre todo amo la mú
 
 ## Puedes encontrarme en:
 
-<code>
+<p>
   <a href="https://twitter.com/shooterStar09">
     <img align="left" alt="Linda Gpe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-</code>
-<code>
+</p>
+<p>
   <a href="https://www.linkedin.com/in/linda-guadalupe-lopez-rivera/">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</code>
-<code>
+</p>
+<p>
   <a href="https://open.spotify.com/user/22xenl6lxfts3cnni27xknzmq?si=bed0438447914873">
     <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
-</code>
+</p>
 
 ## Mis estadísticas de Github
 
