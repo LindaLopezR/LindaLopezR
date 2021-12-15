@@ -24,4 +24,6 @@ Tengo conocimientos en diseño; me encanta leer, dibujar y sobre todo amo la mú
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+## Mis estadísticas de Github
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaLopezR&show_icons=true&theme=radical)
